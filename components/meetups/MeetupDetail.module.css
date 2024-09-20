@@ -1,0 +1,15 @@
+.detail {
+  text-align: center;
+  margin: 2rem;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: white; /* white is a keyword */ /* #fff is a hex value */
+}
+
+.detail img {
+  width: 100%;
+  height: 20rem;
+  object-fit: cover;
+  border-radius: 10px;
+}
